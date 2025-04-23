@@ -1,0 +1,33 @@
+_repo: Todistaja_75680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haahti, Hilja
+    aliases:
+    - Krohn, Hilja
+    - Hahnsson, Hilja
+    birthdate: 1874
+    deathdate: 1966
+    gutenberg_agent_id: '50535'
+    url: http://www.gutenberg.org/2009/agents/50535
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Haahti
+description: ''
+gutenberg_issued: '2025-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75680'
+language: fi
+pgterms:marc905: 20190912045717haahti
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Todistaja
+url: http://www.gutenberg.org/ebooks/75680
